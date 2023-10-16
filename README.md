@@ -1,5 +1,6 @@
 # farming_simulator
 โปรเจคเกมจำลองทำฟาร์มหาเงินชดใช้หนี้ เพื่อฝึกการบริหารจัดการทรัพยากร
+สามารถ Download เล่นได้ที่ : https://drive.google.com/drive/folders/1WkBwa4W67-sb668hpUZtbi_J76IHKqx5?usp=sharing
 
 ### แนะนำตัวละคร
 ![image](https://github.com/Chinorin/farming_simulator/assets/77388362/11e41bf2-7f56-44cf-a0d1-9ee01d28734c)
