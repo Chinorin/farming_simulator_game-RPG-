@@ -154,7 +154,6 @@
   <img src="https://github.com/Chinorin/farming_simulator/assets/77388362/3ddfaa14-09fe-49c1-a4f7-d6f91bab4640" width="600">
   <img src="https://github.com/Chinorin/farming_simulator/assets/77388362/332c5daa-57cb-48df-9b7b-765a8363bfd4" width="600">
   <img src="https://github.com/Chinorin/farming_simulator/assets/77388362/8bc0e0f8-c39a-43cb-ba28-ff1fd3ae666c" width="600">
-  <img src="" width="600">
 </p>
 
 ---
